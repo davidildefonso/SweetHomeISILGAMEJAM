@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: 49d377f1e44969b409fafff1c63d09c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7037169118470182246
+    second: MONACHINA_0
+  - first:
+      213: 895541231106269899
+    second: MONACHINA_1
+  - first:
+      213: 2883608653882916390
+    second: MONACHINA_2
+  - first:
+      213: 2976178619535877827
+    second: MONACHINA_3
+  - first:
+      213: 8855011186526157406
+    second: MONACHINA_4
+  - first:
+      213: -5207035075998942326
+    second: MONACHINA_5
+  - first:
+      213: 5097755440522694712
+    second: MONACHINA_6
+  - first:
+      213: 5897040868356031605
+    second: MONACHINA_7
+  - first:
+      213: -4700082429546955680
+    second: MONACHINA_8
+  - first:
+      213: -2679172078686125549
+    second: MONACHINA_9
+  - first:
+      213: -1380137800943004311
+    second: MONACHINA_10
+  - first:
+      213: -7918953384540907342
+    second: MONACHINA_11
+  - first:
+      213: 6215799409569579773
+    second: MONACHINA_12
+  - first:
+      213: 1284794615670409481
+    second: MONACHINA_13
+  - first:
+      213: -6680605729145679627
+    second: secuencia_0
+  - first:
+      213: 2271094649920610033
+    second: secuencia_1
+  - first:
+      213: -4700746351275570386
+    second: secuencia_2
+  - first:
+      213: 6063526609353086793
+    second: secuencia_3
+  - first:
+      213: 1239872060156830424
+    second: secuencia_4
+  - first:
+      213: -4112675065517974607
+    second: secuencia_5
+  - first:
+      213: 2444371967031355411
+    second: secuencia_6
+  - first:
+      213: -2357332763150641497
+    second: secuencia_7
+  - first:
+      213: 3811538841057020003
+    second: secuencia_8
+  - first:
+      213: -148031010558270483
+    second: secuencia_9
+  - first:
+      213: -26209579392905229
+    second: secuencia_10
+  - first:
+      213: 9043604517363236162
+    second: secuencia_11
+  - first:
+      213: -8854607820293307032
+    second: secuencia_12
+  - first:
+      213: 8135538792559558174
+    second: secuencia_13
+  - first:
+      213: -925938754673976184
+    second: secuencia_14
+  - first:
+      213: -6335391747443968299
+    second: secuencia_15
+  - first:
+      213: 8868836112103553310
+    second: secuencia_16
+  - first:
+      213: 1009896600912396203
+    second: secuencia_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 35
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: secuencia_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 252
+        width: 40
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f015d51c78b943a0800000000000000
+      internalID: -6680605729145679627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 251
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fedec32d8c848f10800000000000000
+      internalID: 2271094649920610033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_2
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 249
+        width: 39
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b8101691893ceb0800000000000000
+      internalID: -4700746351275570386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 253
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479e944359f52450800000000000000
+      internalID: 6063526609353086793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 249
+        width: 41
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d26490d119e43110800000000000000
+      internalID: 1239872060156830424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_5
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 253
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbd13b51d7dce6c0800000000000000
+      internalID: -4112675065517974607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 158
+        width: 39
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318a3d96a572ce120800000000000000
+      internalID: 2444371967031355411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 160
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a614037752194fd0800000000000000
+      internalID: -2357332763150641497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_8
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 160
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368cecca16e45e430800000000000000
+      internalID: 3811538841057020003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 158
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3aee7849612fdf0800000000000000
+      internalID: -148031010558270483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_10
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 158
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffc292c682e2aff0800000000000000
+      internalID: -26209579392905229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_11
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 158
+        width: 40
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dbd8ab466518d70800000000000000
+      internalID: 9043604517363236162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 36
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8658506e91d1e1580800000000000000
+      internalID: -8854607820293307032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 41
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3cea8d6d37e070800000000000000
+      internalID: 8135538792559558174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 59
+        width: 46
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cd3e3cb976623f0800000000000000
+      internalID: -925938754673976184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 40
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d639a4a5ca2418a0800000000000000
+      internalID: -6335391747443968299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 39
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b611747f641b70800000000000000
+      internalID: 8868836112103553310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: secuencia_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 32
+        width: 39
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff14d9b9fd30e00800000000000000
+      internalID: 1009896600912396203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
